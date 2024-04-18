@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js, Typescript**
 
-- 💬 Ask me about **React, Javascript, python, flask and tailwind**
+- 💬 Ask me about **React, Javascript, Python, Flask and Tailwind**
 
 - 📫 How to reach me **joseman6575@gmail.com**
 
